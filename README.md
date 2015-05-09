@@ -16,3 +16,11 @@
 >An experimental local branch for testing stuffs 
 
 A long running branch dev(optional)
+
+###- Configure Git
+
+git config --global user.name "Prenom Nom"
+
+git config --global user.email "prenom.nom@monemail.fr"
+
+git config --global color.ui auto

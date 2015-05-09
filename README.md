@@ -29,3 +29,8 @@ git config --global color.ui auto
 cd myproject/folder
 git init
 ```
+###- Starting with an existing project on a server
+```
+cd your/folder
+git clone https://github.com/magiknono/git-memo.git (prefixed with https / ssh / git)
+```

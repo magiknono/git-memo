@@ -39,4 +39,8 @@ git clone https://github.com/magiknono/git-memo.git (prefixed with https / ssh /
 git add . (all files in the directory will have changes to be commited)
 git add nomdufichier folder/* (selected files will have change to be commited)
 git commit -m "Initial commit"
+###- Remote repo - establish relations without dl
+```
+git remote add nom-repo url
+git remote -v (list)
 ```

@@ -34,3 +34,8 @@ git init
 cd your/folder
 git clone https://github.com/magiknono/git-memo.git (prefixed with https / ssh / git)
 ```
+###- Remote repo - establish relations without dl
+```
+git remote add nom-repo url
+git remote -v (list)
+```

@@ -34,3 +34,9 @@ git init
 cd your/folder
 git clone https://github.com/magiknono/git-memo.git (prefixed with https / ssh / git)
 ```
+###- Add and Commit
+```
+git add . (all files in the directory will have changes to be commited)
+git add nomdufichier folder/* (selected files will have change to be commited)
+git commit -m "Initial commit"
+```

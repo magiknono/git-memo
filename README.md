@@ -25,3 +25,9 @@ git config --global user.email "prenom.nom@monemail.fr"
 
 git config --global color.ui auto
 ```
+
+###- Starting with an unversionned project
+```
+cd myproject/folder
+git init
+```

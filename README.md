@@ -50,3 +50,7 @@ git remote -v (list)
 ls ~/.ssh (if existing)
 ssh-keygen -t rsa -C "nom.prenom@monmail.com" (to generate)
 ```
+###- status
+```
+git status (display changes not staged for status / changes to be committed / untracked files)
+```

@@ -156,3 +156,14 @@ git diff
 git log -p
 git diff master..git-memo  (compare master with memo-git)
 ```
+SOURCE : http://www.git-tower.com/learn/git/ebook
+
+CHEAT SHEET : http://www.git-tower.com/blog/git-cheat-sheet/
+
+Ref in french : http://git-scm.com/book/fr/v1/1
+
+List of ressources for git : https://changelog.com/git-resources-for-visual-learners/
+
+Git workflow : https://www.atlassian.com/git/tutorials/comparing-workflows
+
+Diff Merge Tool : apt-get install meld (with debian or ubuntu)

@@ -80,8 +80,11 @@ git stash drop <stashname>  (remove a stash saved)
 tips : apply the newest stash when no arguments with this 3 laters cmd
 
 **STASH is helpful to get a clean working copy**
+
  *before checking out a different branch...*
+
  *before pulling remote branch...*
+
  *before merging or rebasing a branch...*
 
 

@@ -58,3 +58,7 @@ git status (display changes not staged for status / changes to be committed / un
 ```
 git rm nomdufichier.ext
 ```
+###- project's commit history
+```
+git log # -p for the detailed changes of each commit
+```

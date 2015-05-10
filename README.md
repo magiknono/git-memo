@@ -156,6 +156,11 @@ git diff
 git log -p
 git diff master..git-memo  (compare master with memo-git)
 ```
+###- Tags
+```
+git tag -a 0.1 -m "Initial public release" master
+git push --tags
+```
 SOURCE : http://www.git-tower.com/learn/git/ebook
 
 CHEAT SHEET : http://www.git-tower.com/blog/git-cheat-sheet/

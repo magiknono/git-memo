@@ -1,5 +1,5 @@
 # MEMO GIT
-release 0.1
+release 0.2
 
 ##**Best practices** :
 

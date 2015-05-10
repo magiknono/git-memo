@@ -54,3 +54,7 @@ ssh-keygen -t rsa -C "nom.prenom@monmail.com" (to generate)
 ```
 git status (display changes not staged for status / changes to be committed / untracked files)
 ```
+###- remove a tracked file for the next commit
+```
+git rm nomdufichier.ext
+```

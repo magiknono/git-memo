@@ -45,3 +45,8 @@ git commit -m "Initial commit"
 git remote add nom-repo url
 git remote -v (list)
 ```
+###- For ssh, need a public rsa key
+```
+ls ~/.ssh (if existing)
+ssh-keygen -t rsa -C "nom.prenom@monmail.com" (to generate)
+```
